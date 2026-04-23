@@ -22,7 +22,6 @@ Backend and Frontend agents run in **parallel**. QA reviews the output and can r
 ## Prerequisites
 
 - Python 3.11+
-- A Google Gemini API key ([get one here](https://aistudio.google.com/apikey))
 
 ## Setup
 
@@ -37,7 +36,7 @@ poetry install
 2. **Set your API key** in `.env`:
 
 ```
-GEMINI_API_KEY=your_actual_key_here
+GROQ_API_KEY=your_actual_key_here
 ```
 
 ## Usage
