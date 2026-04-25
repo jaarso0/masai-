@@ -19,7 +19,7 @@ The system decomposes your spec into tasks and runs specialized agents:
 
 Backend and Frontend agents run in **parallel**. QA reviews the output and can request up to 2 revision cycles. All agents share a **persistent memory** (ChromaDB) to stay aligned across runs.
 
-## Prerequisites
+## Prerequisitesfdfd
 
 - Python 3.11+
 
