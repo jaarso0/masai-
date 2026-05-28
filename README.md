@@ -5,7 +5,7 @@ A CLI tool that uses multiple AI agents (powered by Google Gemini) to collaborat
 ## How It Works
 
 ```
-masai build "create a todo app with login and React frontend"
+masai build "create a todo app with login and React frontend"   
 ```
 
 The system decomposes your spec into tasks and runs specialized agents:
